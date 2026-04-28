@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://fb.com/Sudhanshu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
   </a>
   <a href="https://instagram.com/fitsam1908" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
